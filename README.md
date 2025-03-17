@@ -1,6 +1,6 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-"The Matrix [has](https://en.wikipedia.org/wiki/Has-a) you"©
+"The Matrix [has](https://en.wikipedia.org/wiki/Has-a) you" ©
 ```
 class User:
     def __init__(self, name): self.name = name
